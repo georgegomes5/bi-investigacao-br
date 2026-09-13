@@ -1,0 +1,9 @@
+# Base de dados (arquivos Excel em data/)
+/data/
+
+# Documentacao
+README*
+
+# Cache do Python
+__pycache__/
+*.py[cod].md
